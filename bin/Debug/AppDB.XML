@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<DbData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Orders>
+    <Order>
+      <Id>2</Id>
+      <Label>Test order 2</Label>
+      <Services>
+        <Service>
+          <Id>3</Id>
+          <Label>eqw</Label>
+          <Cost>21</Cost>
+        </Service>
+        <Service>
+          <Id>4</Id>
+          <Label>My3 ed</Label>
+          <Cost>23</Cost>
+        </Service>
+        <Service>
+          <Id>0</Id>
+          <Label>Teset 1</Label>
+          <Cost>234.5</Cost>
+        </Service>
+      </Services>
+      <CreationDateTime>2020-05-28T12:46:10.301622+03:00</CreationDateTime>
+      <OverPrice>0.12</OverPrice>
+      <Status>Done</Status>
+    </Order>
+    <Order>
+      <Id>4</Id>
+      <Label>wqeqwef</Label>
+      <Services>
+        <Service>
+          <Id>0</Id>
+          <Label>Teset 1</Label>
+          <Cost>234.5</Cost>
+        </Service>
+        <Service>
+          <Id>4</Id>
+          <Label>My3 ed</Label>
+          <Cost>23</Cost>
+        </Service>
+        <Service>
+          <Id>0</Id>
+          <Label>Teset 1</Label>
+          <Cost>234.5</Cost>
+        </Service>
+        <Service>
+          <Id>0</Id>
+          <Label>Teset 1</Label>
+          <Cost>234.5</Cost>
+        </Service>
+      </Services>
+      <CreationDateTime>2020-05-28T12:53:26.6955434+03:00</CreationDateTime>
+      <OverPrice>0.66</OverPrice>
+      <Status>Done</Status>
+    </Order>
+    <Order>
+      <Id>5</Id>
+      <Label>Заказ на Павла Іванова</Label>
+      <Services>
+        <Service>
+          <Id>1</Id>
+          <Label>Заміна двигуна</Label>
+          <Cost>12000.500</Cost>
+        </Service>
+        <Service>
+          <Id>2</Id>
+          <Label>Заміна колес</Label>
+          <Cost>8400.25</Cost>
+        </Service>
+        <Service>
+          <Id>2</Id>
+          <Label>Заміна колес</Label>
+          <Cost>8400.25</Cost>
+        </Service>
+        <Service>
+          <Id>3</Id>
+          <Label>Покраска</Label>
+          <Cost>2500</Cost>
+        </Service>
+      </Services>
+      <CreationDateTime>2020-05-28T13:07:23.6811868+03:00</CreationDateTime>
+      <OverPrice>0.15</OverPrice>
+      <Status>InProgress</Status>
+    </Order>
+  </Orders>
+  <Services>
+    <Service>
+      <Id>1</Id>
+      <Label>Заміна двигуна</Label>
+      <Cost>12000.500</Cost>
+    </Service>
+    <Service>
+      <Id>2</Id>
+      <Label>Заміна колес</Label>
+      <Cost>8400.25</Cost>
+    </Service>
+    <Service>
+      <Id>3</Id>
+      <Label>Покраска</Label>
+      <Cost>2500</Cost>
+    </Service>
+  </Services>
+</DbData>

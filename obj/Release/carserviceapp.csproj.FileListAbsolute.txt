@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\carserviceapp\bin\Release\carserviceapp.exe.config
+C:\Users\alexa\source\repos\carserviceapp\bin\Release\carserviceapp.exe
+C:\Users\alexa\source\repos\carserviceapp\bin\Release\carserviceapp.pdb
+C:\Users\alexa\source\repos\carserviceapp\obj\Release\carserviceapp.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\carserviceapp\obj\Release\carserviceapp.MainForm.resources
+C:\Users\alexa\source\repos\carserviceapp\obj\Release\carserviceapp.Properties.Resources.resources
+C:\Users\alexa\source\repos\carserviceapp\obj\Release\carserviceapp.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\carserviceapp\obj\Release\carserviceapp.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\carserviceapp\obj\Release\carserviceapp.exe
+C:\Users\alexa\source\repos\carserviceapp\obj\Release\carserviceapp.pdb
